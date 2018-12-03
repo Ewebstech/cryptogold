@@ -1,3 +1,3 @@
 # cryptogold
-# cryptocurrency trading and investment business 
+cryptocurrency trading and investment business 
 
