@@ -1,4 +1,27 @@
-
+    
+	<!-- START CLIENT SECTION -->
+    <section id="client" class="client-section-padding bg-gray">
+        <div class="container">
+			<div class="row">
+				<div class="col-lg-12 text-center">
+					<div class="client-slider owl-carousel owl-theme">
+						<div class="single-client">
+                            <a href="#"><img class="img-fluid" src="assets/img/secured.PNG" alt=""></a>
+                        </div>
+						<div class="single-client">
+                            <a href="#"><img class="img-fluid" src="assets/img/secured (1).PNG" alt=""></a>
+                        </div>
+						<div class="single-client">
+                            <a href="#"><img class="img-fluid" src="assets/img/secured (2).PNG" alt=""></a>
+                        </div>
+						
+					</div>
+				</div>
+			</div>
+        </div>
+        <!--- END CONTAINER -->
+    </section>
+    <!-- END CLIENT SECTION -->
     <!-- START FOOTER -->
     <footer>
         <!--Footer top -->
@@ -50,8 +73,8 @@
 									<i class="icofont icofont-pin"></i>
 								</div>
 								<div class="single-fcontact-des">
-									<h6>Compnay Name:</h6>
-									<p>CrytpWeatlh Investments</p>
+									<h6>Company Name:</h6>
+									<p>CryptoWeatlh Investments</p>
 								</div>
 							</div>
 							<div class="single-fcontact mb-2">

@@ -104,7 +104,7 @@
 						<div class="col-lg-9">
 							<nav class="navbar navbar-expand-lg justify-content-left">
 								<ul class="navbar-nav">
-								   <li><a href="#home" class="js-scroll-trigger active nav-link"><i class="fa fa-home"></i> Home</a>
+								   <li><a href="./" class="js-scroll-trigger active nav-link"><i class="fa fa-home"></i> Home</a>
 									</li>	
 									<li><a href="#abouthf" class="js-scroll-trigger nav-link"><i class="fa fa-exclamation-circle"></i> About</a></li>
 									<li><a href="#service" class="js-scroll-trigger nav-link"><i class="fa fa-list"></i> Pricing</a></li>
