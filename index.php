@@ -113,15 +113,11 @@
 						<div class="col-lg-9">
 							<nav class="navbar navbar-expand-lg justify-content-left">
 								<ul class="navbar-nav">
-								   <li><a href="#home" class="js-scroll-trigger active nav-link">Home</a>
-										
+								   <li><a href="#home" class="js-scroll-trigger active nav-link"><i class="fa fa-home"></i> Home</a>
 									</li>	
-									<li><a href="#abouthf" class="js-scroll-trigger nav-link">About</a></li>
-									<li><a href="#service" class="js-scroll-trigger nav-link">Services</a></li>
-									<li><a href="#team" class="js-scroll-trigger nav-link">Team</a></li>
-									<li><a href="#buysell" class="js-scroll-trigger nav-link">Buy & Sell</a></li>
-									<li><a href="#testimonial" class="js-scroll-trigger nav-link">Testimonial</a></li>
-									<li><a href="#blog" class="js-scroll-trigger nav-link">Blog</a></li>
+									<li><a href="#abouthf" class="js-scroll-trigger nav-link"><i class="fa fa-exclamation-circle"></i> About</a></li>
+									<li><a href="#service" class="js-scroll-trigger nav-link"><i class="fa fa-list"></i> Pricing</a></li>
+									<li><a href="#team" class="js-scroll-trigger nav-link"><i class="fa fa-envelope"></i> Contact</a></li>
 								</ul>
 							</nav>
 						</div>
@@ -144,38 +140,18 @@
 	<!-- START SLIDER SECTION -->
 	<section id="home" class="slider-section">
 		<div class="home-slides-2 owl-carousel owl-theme ">
-			<div class="home-single-slide" data-background="assets/img/bg/slide3.jpg">
+			<div class="home-single-slide" data-background="assets/img/bg/bg3.jpg">
 				<div class="home-slide-overlay"></div>
 				<div class="home-single-slide-inner">
 					<div class="auto-container">
 						<div class="row">
 							<div class="col-lg-6 col-md-8 col-sm-8 col-12 mx-auto text-center">
 								<div class="home-single-slide-dec">
-									<h2>Bitcoin is currency of resistance</h2>
-									<p>Our experts are ready to help you</p>
+									<h2>CryptoWealth</h2>
+									<p>Secure Cryptocurrency Investments &amp; Trading Platform </p>
 									<div class="home-single-slide-button">
 										<a href="#" class="btn-style btn-filled">Contact Us</a>
-										<a href="#" class="btn-style btn-border">View More</a>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-			<!-- end single slider -->
-			<div class="home-single-slide" data-background="assets/img/bg/slide1.jpg">
-				<div class="home-slide-overlay"></div>
-				<div class="home-single-slide-inner">
-					<div class="auto-container">
-						<div class="row">
-							<div class="col-lg-6 col-md-8 col-sm-8 col-12 mx-auto text-center">
-								<div class="home-single-slide-dec">
-									<h2>Secure & easy way to buy & sell bitcoin</h2>
-									<p>Our experts are ready to help you</p>
-									<div class="home-single-slide-button">
-										<a href="#" class="btn-style btn-filled">Learn More</a>
-										<a href="#" class="btn-style btn-border">Bitcoin Price</a>
+										<a href="#" class="btn-style btn-border">Start Now</a>
 									</div>
 								</div>
 							</div>
@@ -191,11 +167,11 @@
 						<div class="row">
 							<div class="col-lg-6 col-md-8 col-sm-8 col-12 mx-auto text-center">
 								<div class="home-single-slide-dec">
-									<h2>bitcoin transper you can trust </h2>
-									<p>Our experts are ready to help you</p>
+									<h2>Invest with digital currencies</h2>
+									<p>Invest Now. Harvest Profits</p>
 									<div class="home-single-slide-button">
-										<a href="#" class="btn-style btn-border">Get quote</a>
-										<a href="#" class="btn-style btn-filled">Read More</a>
+										<a href="#" class="btn-style btn-filled">Invest Now</a>
+										<a href="#" class="btn-style btn-border">Ask Questions</a>
 									</div>
 								</div>
 							</div>
@@ -212,7 +188,7 @@
     <section id="about2" class="section-padding pt-lg-0 pt-md-0">
         <div class="container">
 			<div class="row text-center">
-				<div class="single-about-item col-lg-4 col-md-4 col-sm-12 col-12 mb-lg-0 mb-md-4 mb-sm-4 mb-4">
+				<div class="single-about-item col-lg-3 col-md-3 col-sm-12 col-12 mb-lg-0 mb-md-4 mb-sm-4 mb-4">
 					<div class="single-about">
 						<div class="single-about-img">
 							<div class="single-about-img-inner">
@@ -221,19 +197,19 @@
 						</div>
 						<div class="single-about-caption">
 							<div class="single-about-icon">
-								<i class="fab fa-btc"></i>
+								<i class="fa fa-user-plus"></i>
 							</div>
 							<div class="single-about-title">
-								<h5>Bitcoin Transition</h5>
+								<h5>Get An Account</h5>
 							</div>
 							<div class="single-about-dec">
-								<p>Lorem ipsum dolor sit consectetur adipiscing elit sed do.</p>
+								<p>Setup a FREE account in minutes & get started earning your passive Bitcoin Income.</p>
 							</div>
 						</div>
 					</div>
 				</div>
 				<!-- end single about -->
-				<div class="single-about-item col-lg-4 col-md-4 col-sm-12 col-12 mb-lg-0 mb-md-4 mb-sm-4 mb-4">
+				<div class="single-about-item col-lg-3 col-md-3 col-sm-12 col-12 mb-lg-0 mb-md-4 mb-sm-4 mb-4">
 					<div class="single-about">
 						<div class="single-about-img">
 							<div class="single-about-img-inner">
@@ -242,19 +218,19 @@
 						</div>
 						<div class="single-about-caption">
 							<div class="single-about-icon">
-								<i class="fa fa-dollar-sign"></i>
+								<i class="fab fa-bitcoin"></i>
 							</div>
 							<div class="single-about-title">
-								<h5>Coin Buy & Sell</h5>
+								<h5>Deposit</h5>
 							</div>
 							<div class="single-about-dec">
-								<p>Lorem ipsum dolor sit consectetur adipiscing elit sed do.</p>
+								<p>Take a look at the plans and decide how much you want to invest then make your deposit.</p>
 							</div>
 						</div>
 					</div>
 				</div>
 				<!-- end single about -->
-				<div class="single-about-item col-lg-4 col-md-4 col-sm-12 col-12 mb-lg-0 mb-md-4 mb-sm-4 mb-4">
+				<div class="single-about-item col-lg-3 col-md-3 col-sm-12 col-12 mb-lg-0 mb-md-4 mb-sm-4 mb-4">
 					<div class="single-about">
 						<div class="single-about-img">
 							<div class="single-about-img-inner">
@@ -263,19 +239,19 @@
 						</div>
 						<div class="single-about-caption">
 							<div class="single-about-icon">
-								<i class="fa fa-euro-sign"></i>
+								<i class="fa fa-chart-bar"></i>
 							</div>
 							<div class="single-about-title">
-								<h5>Bitcoin & Ethereum</h5>
+								<h5>Earn</h5>
 							</div>
 							<div class="single-about-dec">
-								<p>Lorem ipsum dolor sit consectetur adipiscing elit sed do.</p>
+								<p>Once your deposit is active, our traders and automated system will go to work for you.</p>
 							</div>
 						</div>
 					</div>
 				</div>
 				<!-- end single about -->
-				<div class="single-about-item col-lg-4 col-md-4 col-sm-12 col-12 mb-lg-0 mb-md-4 mb-sm-4 mb-4">
+				<div class="single-about-item col-lg-3 col-md-3 col-sm-12 col-12 mb-lg-0 mb-md-4 mb-sm-4 mb-4">
 					<div class="single-about">
 						<div class="single-about-img">
 							<div class="single-about-img-inner">
@@ -287,57 +263,15 @@
 								<i class="fab fa-gg"></i>
 							</div>
 							<div class="single-about-title">
-								<h5>Account Security</h5>
+								<h5>Withdraw</h5>
 							</div>
 							<div class="single-about-dec">
-								<p>Lorem ipsum dolor sit consectetur adipiscing elit sed do.</p>
+								<p>All payout requests are handled instantly and automatically by our system.</p>
 							</div>
 						</div>
 					</div>
 				</div>
-				<!-- end single about -->
-				<div class="single-about-item col-lg-4 col-md-4 col-sm-12 col-12 mb-lg-0 mb-md-4 mb-sm-4 mb-4">
-					<div class="single-about">
-						<div class="single-about-img">
-							<div class="single-about-img-inner">
-								<a href="#"><img src="assets/img/bg/bg3.jpg" class="img-fluid" alt=""></a>
-							</div>
-						</div>
-						<div class="single-about-caption">
-							<div class="single-about-icon">
-								<i class="fa fa-ruble-sign"></i>
-							</div>
-							<div class="single-about-title">
-								<h5>Cryptocurrency Trading</h5>
-							</div>
-							<div class="single-about-dec">
-								<p>Lorem ipsum dolor sit consectetur adipiscing elit sed do.</p>
-							</div>
-						</div>
-					</div>
-				</div>
-				<!-- end single about -->
-				<div class="single-about-item col-lg-4 col-md-4 col-sm-12 col-12 mb-lg-0 mb-md-4 mb-sm-4 mb-4">
-					<div class="single-about">
-						<div class="single-about-img">
-							<div class="single-about-img-inner">
-								<a href="#"><img src="assets/img/bg/bg1.jpg" class="img-fluid" alt=""></a>
-							</div>
-						</div>
-						<div class="single-about-caption">
-							<div class="single-about-icon">
-								<i class="fa fa-shekel-sign"></i>
-							</div>
-							<div class="single-about-title">
-								<h5>Bitcoin Legality</h5>
-							</div>
-							<div class="single-about-dec">
-								<p>Lorem ipsum dolor sit consectetur adipiscing elit sed do.</p>
-							</div>
-						</div>
-					</div>
-				</div>
-				<!-- end single about -->
+			
 			</div>
         </div>
         <!--- END CONTAINER -->
@@ -362,19 +296,19 @@
                     <ul class="accordion-box">
                         <li class="accordion block">
                             <div class="acc-btn">
-                                <div class="icon-outer"><span class="icon icofont icofont-ui-press"></span></div>How to buy & sell bitcoin?</div>
+                                <div class="icon-outer"><span class="icon fa fa-user-plus"></span></div>How can I Register?</div>
                             <div class="acc-content">
                                 <div class="content">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco. </p>
+                                    <p>You can register by clicking the 'Get Started' button anywhere on the website.</p>
                                 </div>
                             </div>
                         </li>
                         <li class="accordion block">
                             <div class="acc-btn active">
-                                <div class="icon-outer"><span class="icon icofont icofont-ui-press"></span></div>How can i transfer bitcoin?</div>
+                                <div class="icon-outer"><span class="icon icofont icofont-ui-press"></span></div>How secure is my investment?</div>
                             <div class="acc-content current">
                                 <div class="content">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco </p>
+                                    <p>Our system is transparent, solid and reliable. We have traded and earned investors profit over the years and have hence gained credibility.</p>
                                 </div>
                             </div>
                         </li>
@@ -382,10 +316,10 @@
                         <!--Block-->
                         <li class="accordion block">
                             <div class="acc-btn">
-                                <div class="icon-outer"><span class="icon icofont icofont-ui-press"></span></div>What about the trading with Bitfonix?</div>
+                                <div class="icon-outer"><span class="icon icofont icofont-ui-press"></span></div>When do we close?</div>
                             <div class="acc-content">
                                 <div class="content">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco. </p>
+                                    <p>You can Invest at anytime of the day, month or year. We are also always available to answer your questions as neccessary.</p>
                                 </div>
                             </div>
                         </li>
@@ -393,10 +327,10 @@
                         <!--Block-->
                         <li class="accordion block">
                             <div class="acc-btn">
-                                <div class="icon-outer"><span class="icon icofont icofont-ui-press"></span></div>what about the investment planing?</div>
+                                <div class="icon-outer"><span class="icon icofont icofont-ui-press"></span></div>What if I decide to stop investing with you</div>
                             <div class="acc-content">
                                 <div class="content">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco. </p>
+                                    <p>No problems. We would ask a few questions, provide you your full entitlements and let you be on your way.</p>
                                 </div>
                             </div>
                         </li>
@@ -407,7 +341,7 @@
                                 <div class="icon-outer"><span class="icon icofont icofont-ui-press"></span></div>How can i get the price idea?</div>
                             <div class="acc-content">
                                 <div class="content">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco. </p>
+                                    <p>Our pricing is stated clearly on the website. Surf through to get appropriate information.</p>
                                 </div>
                             </div>
                         </li>
@@ -415,10 +349,10 @@
                         <!--Block-->
                         <li class="accordion block">
                             <div class="acc-btn">
-                                <div class="icon-outer"><span class="icon icofont icofont-ui-press"></span></div>How can i contact with you?</div>
+                                <div class="icon-outer"><span class="icon icofont icofont-ui-press"></span></div>How can I contact you?</div>
                             <div class="acc-content">
                                 <div class="content">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco. </p>
+                                    <p>You can contact us by clicking the 'contact' button anywhere on the website.</p>
                                 </div>
                             </div>
                         </li>
@@ -439,15 +373,14 @@
 						<div class="image-style-wrapper">
 							<div class="image-one"></div>
 							<div class="image-two">
-								<img src="assets/img/bg/promobg1.jpg" class="img-fluid" alt="">
+								<img src="assets/img/bitcoin-banner.jpg" class="img-fluid" alt="">
 							</div>
 						</div>
 					</div>
 					<div class="promo-content">
 						<h4>Who we are?</h4>
-						<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illodrut inventore veritatis et quasi architecto beatae vitae dicta sunt. </p>
-						<a href="#" class="btn-style btn-filled mt-3">Read More <i class="icofont icofont-caret-right"></i></a>
-						<div class="signature-img float-lg-right float-md-right float-none mt-3"><img src="assets/img/bg/signature.png" class="img-fluid" alt=""></div>
+						<p>Founded in June of 2016, <b>CryptoWealth's</b> longevity and success is due to a relentless pursuit of accuracy, depth and innovation, enhanced by the wisdom of past experience and a solid grasp on the future ahead. More than its individual brands, <b>CryptoWeatlh</b> is a digital currency wallet and platform where investors can transact with new digital currency e.g Bitcoin. We work with large brokerage houses based in New-York, Chicago and London, Our professional and experienced traders get extremely good and stable results in money management activities. We are a modern gateway to intelligence, with innovative technology, advanced data feeds, integrated solutions and expert research. </p>
+						
 					</div>	
 				</div>
 				<!-- end col -->				
@@ -463,8 +396,8 @@
 			<div class="row">
 				<div class="col-12 text-center">
 					<div class="section-title">
-						<h5>Bitcoin Legality</h5>
-						<h3>Why Choose <span>Bitfonix</span></h3>
+						<h5>CryptoWealth</h5>
+						<h3>Why Choose <span>CryptoWealth</span></h3>
 					</div>
 				</div>
 			</div>
@@ -475,11 +408,11 @@
 						<div class="col-lg-6 col-md-6 col-12 mb-5">
 							<div class="single-wcus">
 								<div class="single-wcus-icon">
-									<i class="icofont icofont-bill"></i>
+									<i class="fa fa-phone" style='font-size: 30px; margin-bottom: 16px; margin-left: 6px;'></i>
 								</div>
 								<div class="single-wcus-text">
-									<h5>Easy Trading</h5>
-									<p>Lorem ipsum dolor sit ametelid consectetur adipiscing elit sedd eiusmod tempor.</p>
+									<h5>24/7 Support</h5>
+									<p>CryptoWealth call center staff and customer service managers are ready to answer any questions from investors around the clock – after all, we work with investors from all over the globe.</p>
 								</div>
 							</div>
 						</div>
@@ -490,8 +423,8 @@
 									<i class="icofont icofont-coins"></i>
 								</div>
 								<div class="single-wcus-text">
-									<h5>Trading Strategy</h5>
-									<p>Lorem ipsum dolor sit ametelid consectetur adipiscing elit sedd eiusmod tempor.</p>
+									<h5>Better Profits</h5>
+									<p>CryptoWealth offers the most favorable investment terms with regard to the income level and risk minimization, guaranteeing really significant profits.</p>
 								</div>
 							</div>
 						</div>
@@ -499,11 +432,11 @@
 						<div class="col-lg-6 col-md-6 col-12 mb-lg-0 mb-md-0 mb-5">
 							<div class="single-wcus">
 								<div class="single-wcus-icon">
-									<i class="icofont icofont-money"></i>
+									<i class="icofont icofont-ui-travel"></i>
 								</div>
 								<div class="single-wcus-text">
-									<h5>Money Exchange</h5>
-									<p>Lorem ipsum dolor sit ametelid consectetur adipiscing elit sedd eiusmod tempor.</p>
+									<h5>Security</h5>
+									<p>CryptoWealth goal is to secure the investors’ funds at the highest level, it is the same as keeping your funds in a bank. The system will allow a user to operate with the account only after authorization.</p>
 								</div>
 							</div>
 						</div>
@@ -511,11 +444,11 @@
 						<div class="col-lg-6 col-md-6 col-12">
 							<div class="single-wcus">
 								<div class="single-wcus-icon">
-									<i class="icofont icofont-ui-travel"></i>
+									<i class="icofont icofont-money"></i>
 								</div>
 								<div class="single-wcus-text">
-									<h5>Security Ensure</h5>
-									<p>Lorem ipsum dolor sit ametelid consectetur adipiscing elit sedd eiusmod tempor.</p>
+									<h5>Speed</h5>
+									<p>The system enables quick actions. When you ask for withdrawal of funds, it is performed instantly & does not involve any human interference.</p>
 								</div>
 							</div>
 						</div>
@@ -526,9 +459,9 @@
 				<div class="col-lg-4 col-md-4 col-12">
 					<div class="single-wcus-promo">
 						<div class="single-wcus-promo-inner">
-							<h3>We are ready to fly with you.</h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolor.</p>
-							<a href="#" class="btn-style btn-border btn-border-2">Read More</a>
+							<h3 style="text-align: center">We are ready to fly with you.</h3>
+							<p>Our Mission is to service our customers by creating and delivering quality service, which is unique, valuable and profitable to help our clients attain financial success by providing real investment opportunities and support. </p>
+							<center><a href="#" class="btn-style btn-border btn-border-2 text-center"><i class="fa fa-check-circle"></i> Start Now</a></center>
 						</div>
 					</div>
 				</div>
@@ -537,520 +470,7 @@
         </div>
         <!--- END CONTAINER -->
     </section>
-    <!-- END CHOOSE US SECTION -->	
-	
-	<!-- START COUNTER SECTION -->
-    <section id="counter" class="section-padding overlay counter-section section-back-image-2" data-background="assets/img/bg/counterbg.jpg">
-        <div class="container">
-			<div class="row">	 
-				<div class="col-lg-6 col-md-6 col-12">	 
-					<div class="row text-center counter-wrapper">	 
-						<div class="col-lg-6 col-md-6 col-12 counter-wrapper-inner">
-							<div class="single-counter">
-								<h3 class="timer">56</h3>
-								<p>Bitcoin</p>
-							</div>							
-						</div>
-						<!-- end col -->	 
-						<div class="col-lg-6 col-md-6 col-12 counter-wrapper-inner">
-							<div class="single-counter">
-								<h3 class="timer">95</h3>
-								<p>Wallet</p>
-							</div>							
-						</div>
-						<!-- end col -->	 
-						<div class="col-lg-6 col-md-6 col-12 counter-wrapper-inner">
-							<div class="single-counter">
-								<h3 class="timer">85</h3>
-								<p>ATM</p>
-							</div>							
-						</div>
-						<!-- end col -->	 
-						<div class="col-lg-6 col-md-6 col-12 counter-wrapper-inner">
-							<div class="single-counter">
-								<h3 class="timer">68</h3>
-								<p>Client</p>
-							</div>							
-						</div>
-						<!-- end col -->
-					</div>
-				</div>
-				<!-- end col -->	
-			</div>
-        </div>
-        <!--- END CONTAINER -->
-    </section>
-    <!-- END PROMO SECTION -->	
-	
-	<!-- START SERVICE SECTION -->
-    <section id="service" class="section-padding">
-        <div class="container">
-			<div class="row">
-				<div class="col-12 text-center">
-					<div class="section-title">
-						<h5>what we do</h5>
-						<h3>Bitfonix <span>Services</span></h3>
-					</div>
-				</div>
-			</div>
-			<!-- end section title -->	 
-			<div class="services-slider owl-carousel owl-theme">
-				<div class="single-service-item mt-5">
-					<div class="single-service">
-						<div class="single-service-img">
-							<img class="img-fluid" src="assets/img/service/1.jpg" alt="">
-						</div>
-						<div class="single-service-title">
-							<div class="single-service-icon">
-								<i class="fab fa-gg"></i>
-							</div>
-							<div class="single-service-text">
-								<h5>Bitcoin Trading</h5>
-							</div>
-						</div>
-						<div class="single-service-dec">
-							<p>Lorem ipsum dolor sit amet consectetur ullamco adipiscing elit, sed do eiusmod tempor exercitat incididunt ut labore.</p>
-						</div>	
-					</div>							
-				</div>
-				<!-- end single service -->
-				<div class="single-service-item mt-5">
-					<div class="single-service">
-						<div class="single-service-img">
-							<img class="img-fluid" src="assets/img/service/3.jpg" alt="">
-						</div>
-						<div class="single-service-title">
-							<div class="single-service-icon">
-								<i class="fa fa-shekel-sign"></i>
-							</div>
-							<div class="single-service-text">
-								<h5>Coin Buy & Sell</h5>
-							</div>
-						</div>
-						<div class="single-service-dec">
-							<p>Lorem ipsum dolor sit amet consectetur ullamco adipiscing elit, sed do eiusmod tempor exercitat incididunt ut labore.</p>
-						</div>	
-					</div>							
-				</div>
-				<!-- end single service -->
-				<div class="single-service-item mt-5">
-					<div class="single-service">
-						<div class="single-service-img">
-							<img class="img-fluid" src="assets/img/service/2.jpg" alt="">
-						</div>
-						<div class="single-service-title">
-							<div class="single-service-icon">
-								<i class="fab fa-btc"></i>
-							</div>
-							<div class="single-service-text">
-								<h5>Bitcoin & Ethereum</h5>
-							</div>
-						</div>
-						<div class="single-service-dec">
-							<p>Lorem ipsum dolor sit amet consectetur ullamco adipiscing elit, sed do eiusmod tempor exercitat incididunt ut labore.</p>
-						</div>	
-					</div>							
-				</div>
-				<!-- end single service -->
-				<div class="single-service-item mt-5">
-					<div class="single-service">
-						<div class="single-service-img">
-							<img class="img-fluid" src="assets/img/service/4.jpg" alt="">
-						</div>
-						<div class="single-service-title">
-							<div class="single-service-icon">
-								<i class="fa fa-dollar-sign"></i>
-							</div>
-							<div class="single-service-text">
-								<h5>Cryptocurrency Trading</h5>
-							</div>
-						</div>
-						<div class="single-service-dec">
-							<p>Lorem ipsum dolor sit amet consectetur ullamco adipiscing elit, sed do eiusmod tempor exercitat incididunt ut labore.</p>
-						</div>	
-					</div>							
-				</div>
-				<!-- end single service -->
-			</div>
-			<div class="row mt-5">
-				<div class="col-12 text-center">
-					<div class="serviceall-btn wow fadeInDown">
-						<a href="#">Check All Services <i class="icofont icofont-long-arrow-right"></i></a>
-					</div>
-				</div>
-			</div>	
-        </div>
-        <!--- END CONTAINER -->
-    </section>
-    <!-- END SERVICE SECTION -->
-	
-	<!-- START TEAM SECTION -->
-    <section id="team" class="section-padding bg-gray">
-        <div class="container">
-			<div class="row">
-				<div class="col-12 text-center">
-					<div class="section-title">
-						<h5>our masters</h5>
-						<h3>Bitfonix <span>Expert</span></h3>
-					</div>
-				</div>
-			</div>
-			<!-- end section title -->	 
-			<div class="row text-center">
-				<div class="team-slider owl-carousel owl-theme">
-					<div class="single-team-wrapper">
-						<div class="single-team">
-							<div class="single-team-img">
-								<img class="img-fluid" src="assets/img/team/1.png" alt="">
-								<div class="single-team-social">
-									<ul>
-									   <li><a class="sicon1" href="#"><i class="icofont icofont-social-facebook"></i></a></li>
-									   <li><a class="sicon2" href="#"><i class="icofont icofont-social-twitter"></i></a></li>
-									   <li><a class="sicon3" href="#"><i class="icofont icofont-social-youtube-play"></i></a></li>
-									</ul>
-								</div>
-							</div>
-							<div class="single-team-meta">
-								<h4>Jone Doe</h4>
-								<span>Hash Theme, CEO</span>
-								<p>Lorem ipsum dolor sit amet consectetur ullamco adipiscing elit, sed do eiusmod tempor exercitat incididunt ut labore.</p>
-							</div>	
-						</div>							
-					</div>
-					<!-- end col -->
-					<div class="single-team-wrapper">
-						<div class="single-team">
-							<div class="single-team-img">
-								<img class="img-fluid" src="assets/img/team/2.png" alt="">
-								<div class="single-team-social">
-									<ul>
-									   <li><a class="sicon1" href="#"><i class="icofont icofont-social-facebook"></i></a></li>
-									   <li><a class="sicon2" href="#"><i class="icofont icofont-social-twitter"></i></a></li>
-									   <li><a class="sicon3" href="#"><i class="icofont icofont-social-youtube-play"></i></a></li>
-									</ul>
-								</div>
-							</div>
-							<div class="single-team-meta">
-								<h4>Mark Henry</h4>
-								<span>Hash Theme, CEO</span>
-								<p>Lorem ipsum dolor sit amet consectetur ullamco adipiscing elit, sed do eiusmod tempor exercitat incididunt ut labore.</p>
-							</div>	
-						</div>							
-					</div>
-					<!-- end col -->
-					<div class="single-team-wrapper">
-						<div class="single-team">
-							<div class="single-team-img">
-								<img class="img-fluid" src="assets/img/team/3.png" alt="">
-								<div class="single-team-social">
-									<ul>
-									   <li><a class="sicon1" href="#"><i class="icofont icofont-social-facebook"></i></a></li>
-									   <li><a class="sicon2" href="#"><i class="icofont icofont-social-twitter"></i></a></li>
-									   <li><a class="sicon3" href="#"><i class="icofont icofont-social-youtube-play"></i></a></li>
-									</ul>
-								</div>
-							</div>
-							<div class="single-team-meta">
-								<h4>Bishen Ketty</h4>
-								<span>Hash Theme, CEO</span>
-								<p>Lorem ipsum dolor sit amet consectetur ullamco adipiscing elit, sed do eiusmod tempor exercitat incididunt ut labore.</p>
-							</div>	
-						</div>							
-					</div>
-					<!-- end col -->
-					<div class="single-team-wrapper">
-						<div class="single-team">
-							<div class="single-team-img">
-								<img class="img-fluid" src="assets/img/team/4.png" alt="">
-								<div class="single-team-social">
-									<ul>
-									   <li><a class="sicon1" href="#"><i class="icofont icofont-social-facebook"></i></a></li>
-									   <li><a class="sicon2" href="#"><i class="icofont icofont-social-twitter"></i></a></li>
-									   <li><a class="sicon3" href="#"><i class="icofont icofont-social-youtube-play"></i></a></li>
-									</ul>
-								</div>
-							</div>
-							<div class="single-team-meta">
-								<h4>Kwasan Rowy</h4>
-								<span>Hash Theme, CEO</span>
-								<p>Lorem ipsum dolor sit amet consectetur ullamco adipiscing elit, sed do eiusmod tempor exercitat incididunt ut labore.</p>
-							</div>	
-						</div>							
-					</div>
-					<!-- end col -->
-					<div class="single-team-wrapper">
-						<div class="single-team">
-							<div class="single-team-img">
-								<img class="img-fluid" src="assets/img/team/1.png" alt="">
-								<div class="single-team-social">
-									<ul>
-									   <li><a class="sicon1" href="#"><i class="icofont icofont-social-facebook"></i></a></li>
-									   <li><a class="sicon2" href="#"><i class="icofont icofont-social-twitter"></i></a></li>
-									   <li><a class="sicon3" href="#"><i class="icofont icofont-social-youtube-play"></i></a></li>
-									</ul>
-								</div>
-							</div>
-							<div class="single-team-meta">
-								<h4>Jone Doe</h4>
-								<span>Hash Theme, CEO</span>
-								<p>Lorem ipsum dolor sit amet consectetur ullamco adipiscing elit, sed do eiusmod tempor exercitat incididunt ut labore.</p>
-							</div>	
-						</div>							
-					</div>
-					<!-- end col -->	
-				</div>
-			</div>
-			<!-- end row -->
-        </div>
-        <!--- END CONTAINER -->
-    </section>
-    <!-- END TEAM SECTION -->
-	
-	<!-- START BUY SELL SECTION -->
-    <section id="buysell" class="section-padding">
-        <div class="container">
-			<div class="row">
-				<div class="col-12 text-center">
-					<div class="section-title">
-						<h5>Bitfonix exchange</h5>
-						<h3>Buy & <span>Sell</span></h3>
-					</div>
-				</div>
-			</div>
-			<!-- end section title -->	 
-			<div class="row">
-				<div class="buysell-tab-list mx-auto">
-					<div class="col-lg-12">
-						<ul class="nav nav-tabs" role="tablist">
-							<li class="nav-item"><a class="nav-link active" href="#" data-target="#one" data-toggle="tab">
-								<i class="fa fa-hand-holding-usd"></i>USD</a>
-							</li>
-							<li class="nav-item"><a class="nav-link" href="#" data-target="#two" data-toggle="tab">
-								<i class="fa fa-euro-sign"></i>EUR</a>
-							</li>
-							<li class="nav-item"><a class="nav-link" href="#" data-target="#three" data-toggle="tab">
-								<i class="fa fa-ruble-sign"></i>RUB</a>
-							</li>
-							<li class="nav-item"><a class="nav-link" href="#" data-target="#four" data-toggle="tab">
-								<i class="fa fa-yen-sign"></i>YEN</a>
-							</li>
-						</ul>
-					</div>
-				</div>
-				<!-- Tab panes -->
-				<div class="buysell-tab-content tab-content">
-					<div class="tab-pane animated fadeInRight active show" id="one">
-						<div class="row">
-							<div class="col-lg-4 col-md-4 col-12 text-center mb-lg-0 mb-md-0 mb-5">
-								<div class="single-buy-box">
-									<div class="single-buy-box-header">
-										<h5>3 Bitcoin</h5>
-									</div>
-									<div class="single-buy-box-dec">
-										<h2>$2360</h2>
-										<p>*You can Save 20%</p>
-										<a href="#" class="btn-style btn-filled btn-filled-2 mb-5">Buy Now</a>
-									</div>
-								</div>
-							</div>
-							<!-- end single buy box -->
-							<div class="col-lg-4 col-md-4 col-12 text-center mb-lg-0 mb-md-0 mb-5">
-								<div class="single-buy-box">
-									<div class="single-buy-box-header">
-										<h5>5 Bitcoin</h5>
-									</div>
-									<div class="single-buy-box-dec">
-										<h2>$4560</h2>
-										<p>*You can Save 40%</p>
-										<a href="#" class="btn-style btn-filled btn-filled-2 mb-5">Buy Now</a>
-									</div>
-								</div>
-							</div>
-							<!-- end single buy box -->
-							<div class="col-lg-4 col-md-4 col-12 text-center">
-								<div class="single-buy-box">
-									<div class="single-buy-box-header">
-										<h5>8 Bitcoin</h5>
-									</div>
-									<div class="single-buy-box-dec">
-										<h2>$5000</h2>
-										<p>*You can Save 50%</p>
-										<a href="#" class="btn-style btn-filled btn-filled-2 mb-5">Buy Now</a>
-									</div>
-								</div>
-							</div>
-							<!-- end single buy box -->
-						</div>
-					</div>
-					<div class="tab-pane animated fadeInRight" id="two">
-						<div class="row">
-							<div class="col-lg-4 col-md-4 col-12 text-center mb-lg-0 mb-md-0 mb-5">
-								<div class="single-buy-box">
-									<div class="single-buy-box-header">
-										<h5>3 Bitcoin</h5>
-									</div>
-									<div class="single-buy-box-dec">
-										<h2>€2360</h2>
-										<p>*You can Save 20%</p>
-										<a href="#" class="btn-style btn-filled btn-filled-2 mb-5">Buy Now</a>
-									</div>
-								</div>
-							</div>
-							<!-- end single buy box -->
-							<div class="col-lg-4 col-md-4 col-12 text-center mb-lg-0 mb-md-0 mb-5">
-								<div class="single-buy-box">
-									<div class="single-buy-box-header">
-										<h5>5 Bitcoin</h5>
-									</div>
-									<div class="single-buy-box-dec">
-										<h2>€4560</h2>
-										<p>*You can Save 40%</p>
-										<a href="#" class="btn-style btn-filled btn-filled-2 mb-5">Buy Now</a>
-									</div>
-								</div>
-							</div>
-							<!-- end single buy box -->
-							<div class="col-lg-4 col-md-4 col-12 text-center">
-								<div class="single-buy-box">
-									<div class="single-buy-box-header">
-										<h5>8 Bitcoin</h5>
-									</div>
-									<div class="single-buy-box-dec">
-										<h2>€5000</h2>
-										<p>*You can Save 50%</p>
-										<a href="#" class="btn-style btn-filled btn-filled-2 mb-5">Buy Now</a>
-									</div>
-								</div>
-							</div>
-							<!-- end single buy box -->
-						</div>
-					</div>
-					<div class="tab-pane animated fadeInRight" id="three">
-						<div class="row">
-							<div class="col-lg-4 col-md-4 col-12 text-center mb-lg-0 mb-md-0 mb-5">
-								<div class="single-buy-box">
-									<div class="single-buy-box-header">
-										<h5>3 Bitcoin</h5>
-									</div>
-									<div class="single-buy-box-dec">
-										<h2>€2360</h2>
-										<p>*You can Save 20%</p>
-										<a href="#" class="btn-style btn-filled btn-filled-2 mb-5">Buy Now</a>
-									</div>
-								</div>
-							</div>
-							<!-- end single buy box -->
-							<div class="col-lg-4 col-md-4 col-12 text-center mb-lg-0 mb-md-0 mb-5">
-								<div class="single-buy-box">
-									<div class="single-buy-box-header">
-										<h5>5 Bitcoin</h5>
-									</div>
-									<div class="single-buy-box-dec">
-										<h2>€4560</h2>
-										<p>*You can Save 40%</p>
-										<a href="#" class="btn-style btn-filled btn-filled-2 mb-5">Buy Now</a>
-									</div>
-								</div>
-							</div>
-							<!-- end single buy box -->
-							<div class="col-lg-4 col-md-4 col-12 text-center">
-								<div class="single-buy-box">
-									<div class="single-buy-box-header">
-										<h5>8 Bitcoin</h5>
-									</div>
-									<div class="single-buy-box-dec">
-										<h2>€5000</h2>
-										<p>*You can Save 50%</p>
-										<a href="#" class="btn-style btn-filled btn-filled-2 mb-5">Buy Now</a>
-									</div>
-								</div>
-							</div>
-							<!-- end single buy box -->
-						</div>
-					</div>
-					<div class="tab-pane animated fadeInRight" id="four">
-						<div class="row">
-							<div class="col-lg-4 col-md-4 col-12 text-center mb-lg-0 mb-md-0 mb-5">
-								<div class="single-buy-box">
-									<div class="single-buy-box-header">
-										<h5>3 Bitcoin</h5>
-									</div>
-									<div class="single-buy-box-dec">
-										<h2>¥2360</h2>
-										<p>*You can Save 20%</p>
-										<a href="#" class="btn-style btn-filled btn-filled-2 mb-5">Buy Now</a>
-									</div>
-								</div>
-							</div>
-							<!-- end single buy box -->
-							<div class="col-lg-4 col-md-4 col-12 text-center mb-lg-0 mb-md-0 mb-5">
-								<div class="single-buy-box">
-									<div class="single-buy-box-header">
-										<h5>5 Bitcoin</h5>
-									</div>
-									<div class="single-buy-box-dec">
-										<h2>¥4560</h2>
-										<p>*You can Save 40%</p>
-										<a href="#" class="btn-style btn-filled btn-filled-2 mb-5">Buy Now</a>
-									</div>
-								</div>
-							</div>
-							<!-- end single buy box -->
-							<div class="col-lg-4 col-md-4 col-12 text-center">
-								<div class="single-buy-box">
-									<div class="single-buy-box-header">
-										<h5>8 Bitcoin</h5>
-									</div>
-									<div class="single-buy-box-dec">
-										<h2>¥5000</h2>
-										<p>*You can Save 50%</p>
-										<a href="#" class="btn-style btn-filled btn-filled-2 mb-5">Buy Now</a>
-									</div>
-								</div>
-							</div>
-							<!-- end single buy box -->
-						</div>
-					</div>
-				</div>
-			</div>
-			<!-- end row -->	 
-			<div class="row mt-5">
-				<div class="col-12 text-center">
-					<div class="section-title-2">
-						<h3>Want to buy diferent amount?</h3>
-					</div>
-				</div>
-			</div>
-			<!-- end section title -->	 
-			<div class="row">
-				<div class="col-lg-8 col-md-8 col-12 mx-auto">
-					<div class="cal-convertor">
-						<script>
-							baseUrl = "https://widgets.cryptocompare.com/";
-							var scripts = document.getElementsByTagName("script");
-							var embedder = scripts[ scripts.length - 1 ];
-							var cccTheme = {"General":{"borderColor":"#f7921a","headerText":""},"Form":{"labelFrom":"Put amount:","labelTo":"Get amount:"}};
-							(function (){
-							var appName = encodeURIComponent(window.location.hostname);
-							if(appName==""){appName="local";}
-							var s = document.createElement("script");
-							s.type = "text/javascript";
-							s.async = true;
-							var theUrl = baseUrl+'serve/v1/coin/converter?fsym=BTC&tsyms=USD,EUR,CNY,GBP';
-							s.src = theUrl + ( theUrl.indexOf("?") >= 0 ? "&" : "?") + "app=" + appName;
-							embedder.parentNode.appendChild(s);
-							})();
-						</script>
-					</div>
-					<div class="col-12 text-center">
-						<a href="#" class="mt-3 btn-style btn-filled btn-filled-2">Buy Now!</a>			
-					</div>
-				</div>
-			</div>
-        </div>
-        <!--- END CONTAINER -->
-    </section>
-    <!-- END BUY SELL SECTION -->
+    <!-- END CHOOSE US SECTION -->
 	
 	<!-- START PRICE SECTION -->
     <section id="price" class="section-padding bg-gray">
@@ -1068,23 +488,20 @@
 				<div class="col-lg-4 col-md-4 col-12 mb-lg-0 mb-md-0 mb-5">
 					<div class="single-pricing">
 						<div class="single-pricing-head text-center">
-							<span class="price"><sup>$</sup><span class="price-digit">25</span>/mo</span>
-							<h5>Basic</h5>
+							<span class="price"><sup>$</sup><span class="price-digit">200</span>/30 days</span>
+							<h5>Starter</h5>
 						</div>
 						<div class="single-pricing-body">
 							<div class="single-pricing-list">
 								<ul>
-									<li><i class="icofont icofont-check-alt"></i> 10 Projects</li>
-									<li><i class="icofont icofont-close-line"></i> 100 GB Disk</li>
-									<li><i class="icofont icofont-check-alt"></i> 10 Emails</li>
-									<li><i class="icofont icofont-check-alt"></i> Unlimited Bandwidth</li>
-									<li><i class="icofont icofont-close-line"></i> 1 Website</li>
+									<li><i class="icofont icofont-check-alt"></i> 35% Interest Rate</li>
+									<li><i class="icofont icofont-check-alt"></i> 99.9% Uptime</li>
 									<li><i class="icofont icofont-check-alt"></i> Free Support</li>
 								</ul>
 							</div>
 						</div>
 						<div class="single-pricing-button">
-							<a href="#" class="mt-3 d-block text-center rounded-0">Buy It Now</a>
+							<a href="#" class="mt-3 d-block text-center rounded-0">Invest Now</a>
 						</div>	
 					</div>
 				</div>
@@ -1092,23 +509,20 @@
 				<div class="col-lg-4 col-md-4 col-12 mb-lg-0 mb-md-0 mb-5">
 					<div class="single-pricing">
 						<div class="single-pricing-head text-center">
-							<span class="price"><sup>$</sup><span class="price-digit">45</span>/mo</span>
+							<span class="price"><sup>$</sup><span class="price-digit">500</span>/30 days</span>
 							<h5>Standard</h5>
 						</div>
 						<div class="single-pricing-body">
 							<div class="single-pricing-list">
 								<ul>
-									<li><i class="icofont icofont-check-alt"></i> 20 Projects</li>
-									<li><i class="icofont icofont-check-alt"></i> 200 GB Disk</li>
-									<li><i class="icofont icofont-check-alt"></i> 20 Emails</li>
-									<li><i class="icofont icofont-check-alt"></i> Unlimited Bandwidth</li>
-									<li><i class="icofont icofont-close-line"></i>  Website</li>
+									<li><i class="icofont icofont-check-alt"></i> 40% Interest</li>
+									<li><i class="icofont icofont-check-alt"></i> 99.9% Uptime</li>
 									<li><i class="icofont icofont-check-alt"></i> Free Support</li>
 								</ul>
 							</div>
 						</div>
 						<div class="single-pricing-button">
-							<a href="#" class="mt-3 d-block text-center rounded-0">Buy It Now</a>
+							<a href="#" class="mt-3 d-block text-center rounded-0">Invest Now</a>
 						</div>	
 					</div>
 				</div>
@@ -1116,23 +530,20 @@
 				<div class="col-lg-4 col-md-4 col-12">
 					<div class="single-pricing">
 						<div class="single-pricing-head text-center">
-							<span class="price"><sup>$</sup><span class="price-digit">55</span>/mo</span>
-							<h5>Premium</h5>
+							<span class="price"><sup>$</sup><span class="price-digit">1000</span>/30 days</span>
+							<h5>Professional</h5>
 						</div>
 						<div class="single-pricing-body">
 							<div class="single-pricing-list">
 								<ul>
-									<li><i class="icofont icofont-check-alt"></i> 30 Projects</li>
-									<li><i class="icofont icofont-check-alt"></i> 300 GB Disk</li>
-									<li><i class="icofont icofont-check-alt"></i> 30 Emails</li>
-									<li><i class="icofont icofont-check-alt"></i> Unlimited Bandwidth</li>
-									<li><i class="icofont icofont-check-alt"></i> 3 Website</li>
-									<li><i class="icofont icofont-check-alt"></i> Free Support</li>
+									<li><i class="icofont icofont-check-alt"></i> 50% Interest</li>
+									<li><i class="icofont icofont-check-alt"></i> 99.9% Uptime</li>
+									<li><i class="icofont icofont-check-alt"></i> Extra Support</li>
 								</ul>
 							</div>
 						</div>
 						<div class="single-pricing-button">
-							<a href="#" class="mt-3 d-block text-center rounded-0">Buy It Now</a>
+							<a href="#" class="mt-3 d-block text-center rounded-0">Invest Now</a>
 						</div>	
 					</div>
 				</div>
@@ -1143,156 +554,28 @@
     </section>
     <!-- END PRICE SECTION -->
 	
-	<!-- START TESTIMONIAL SECTION -->
-    <section id="testimonial" class="section-padding">
-        <div class="container">
+	<!-- START CALLTOACTION SECTION -->
+	<section id="calltoaction" class="calltoaction-padding section-padding bg-theme">
+		<div class="auto-container">
 			<div class="row">
-				<div class="col-12 text-center">
-					<div class="section-title">
-						<h5>our achievements</h5>
-						<h3>Client <span>Feedback</span></h3>
+				<div class="col-lg-8 col-md-8 col-sm-12 col-12 mb-lg-0 mb-md-4 mb-sm-4 mb-4">
+					<div class="calltoaction-two-wrap">
+						<h4>Still have questions?</h4>
+						<p>It's okay, simply go to our contact page and feel free to ask any questions there.</p>
 					</div>
 				</div>
-			</div>
-			<!-- end section title -->
-			<div class="testimonial-wrapper bg-gray-2 section-padding">
-				<div class="row">
-					<div class="col-lg-12 mx-lg-auto mx-md-auto mx-0 text-center">
-						<div class="testimonial-slider owl-carousel owl-theme">
-							<div class="single-testimonial">
-								<div class="single-testimonial-image">
-									<img class="img-fluid rounded-circle" src="assets/img/team/person1.jpg" alt="">
-								</div>
-								<div class="single-testimonial-content">
-									<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illodrut inventore veritatis et quasi architecto beatae vitae dicta sunt. </p>
-								</div>
-								<div class="single-testimonial-meta">
-									<p>- Jone Doe</p>
-								</div>
-							</div>
-							<!-- end single testimonial -->
-							<div class="single-testimonial">
-								<div class="single-testimonial-image">
-									<img class="img-fluid rounded-circle" src="assets/img/team/person2.jpg" alt="">
-								</div>
-								<div class="single-testimonial-content">
-									<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illodrut inventore veritatis et quasi architecto beatae vitae dicta sunt. </p>
-								</div>
-								<div class="single-testimonial-meta">
-									<p>- Hash Theme</p>
-								</div>
-							</div>
-							<!-- end single testimonial -->
-						</div>
-					</div>
+				<!-- end col -->
+				<div class="col-lg-4 col-md-4 col-sm-12 col-12 text-lg-right text-md-right text-sm-left text-left">
+					<a href="/contact" class="btn-style btn-border btn-border-3">Contact Us</a>
 				</div>
+				<!-- end col -->
 			</div>
-        </div>
-        <!--- END CONTAINER -->
-    </section>
-    <!-- END TESTIMONIAL SECTION -->
+			<!-- end row-->
+		</div>
+	</section>
+    <!-- END CALLTOACTION SECTION -->
 
-	<!-- START BLOG SECTION -->
-    <section id="blog" class="section-padding">
-        <div class="container">
-			<div class="row">
-				<div class="col-12 text-left">
-					<div class="section-title mb-4">
-						<h5>get updated</h5>
-						<h3>Blog <span>Post</span></h3>
-					</div>
-				</div>
-			</div>
-			<!-- end section title -->
-			<div class="row">
-				<div class="col-lg-8 col-md-8 col-12 mb-lg-0 mb-md-4 mb-sm-4 mb-4">
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut <strong>enim ad minim veniam</strong>, quis nostrud exercitation ullamco </p>
-				</div>
-				<div class="col-lg-4 col-md-4 col-12 text-left text-lg-right text-md-right">
-					<a href="#" class="btn-style btn-filled btn-filled-2">More News <i class="icofont icofont-caret-right"></i></a>
-				</div>
-			</div>
-			<div class="row mt-5">
-				<div class="col-lg-4 col-md-4 col-12 mb-lg-0 mb-md-4 mb-sm-4 mb-4">
-					<div class="single-blogh">
-						<div class="single-blog-himage">
-							<img class="img-fluid" src="assets/img/blog/2.jpg" alt="">
-						</div>
-						<div class="single-blog-hdec">
-							<a href="#"><h5>Final Testing for ETC Support on Bitfonix</h5></a>
-							<span class="post-date"><i class="icofont icofont-calendar"></i> 17 Dec 2018</span>
-							<span class="post-comment"><i class="fa fa-comment"></i> 3 comments</span>
-							<p>
-								Lorem ipsum dolor sit amet consectetu adipiscing elit, sed do eiusmod tempor incididunt ut labore
-								<a href="#">[...]</a>
-							</p>
-							<div class="single-blog-hadmin">
-								<div class="single-blog-hadmin-img">
-									<img class="img-fluid rounded-circle" src="assets/img/team/person1.jpg" alt="">
-								</div>
-								<div class="single-blog-hadmin-info">
-									<p>By: <span>Jon Doe</span>for <span>TRADING</span></p>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<!-- end single blog -->
-				<div class="col-lg-4 col-md-4 col-12 mb-lg-0 mb-md-4 mb-sm-4 mb-4">
-					<div class="single-blogh">
-						<div class="single-blog-himage">
-							<img class="img-fluid" src="assets/img/blog/1.jpg" alt="">
-						</div>
-						<div class="single-blog-hdec">
-							<a href="#"><h5>What we accomplished at Coinbase in 2018</h5></a>
-							<span class="post-date"><i class="icofont icofont-calendar"></i> 18 Dec 2018</span>
-							<span class="post-comment"><i class="fa fa-comment"></i> 5 comments</span>
-							<p>
-								Lorem ipsum dolor sit amet consectetu adipiscing elit, sed do eiusmod tempor incididunt ut labore
-								<a href="#">[...]</a>
-							</p>
-							<div class="single-blog-hadmin">
-								<div class="single-blog-hadmin-img">
-									<img class="img-fluid rounded-circle" src="assets/img/team/person2.jpg" alt="">
-								</div>
-								<div class="single-blog-hadmin-info">
-									<p>By: <span>Jon Doe</span>for <span>TRADING</span></p>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<!-- end single blog -->
-				<div class="col-lg-4 col-md-4 col-12">
-					<div class="single-blogh">
-						<div class="single-blog-himage">
-							<img class="img-fluid" src="assets/img/blog/3.jpg" alt="">
-						</div>
-						<div class="single-blog-hdec">
-							<a href="#"><h5>Bitfonix Custody is Officially Open For Business</h5></a>
-							<span class="post-date"><i class="icofont icofont-calendar"></i> 19 Dec 2018</span>
-							<span class="post-comment"><i class="fa fa-comment"></i> 4 comments</span>
-							<p>
-								Lorem ipsum dolor sit amet consectetu adipiscing elit, sed do eiusmod tempor incididunt ut labore
-								<a href="#">[...]</a>
-							</p>
-							<div class="single-blog-hadmin">
-								<div class="single-blog-hadmin-img">
-									<img class="img-fluid rounded-circle" src="assets/img/team/person1.jpg" alt="">
-								</div>
-								<div class="single-blog-hadmin-info">
-									<p>By: <span>Jon Doe</span>for <span>TRADING</span></p>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<!-- end single blog -->
-			</div>
-        </div>
-        <!--- END CONTAINER -->
-    </section>
-    <!-- END BLOG SECTION -->
+
 
 	<!-- START CLIENT SECTION -->
     <section id="client" class="client-section-padding bg-gray">
@@ -1301,23 +584,15 @@
 				<div class="col-lg-12 text-center">
 					<div class="client-slider owl-carousel owl-theme">
 						<div class="single-client">
-                            <a href="#"><img class="img-fluid" src="assets/img/clients/1.png" alt=""></a>
+                            <a href="#"><img class="img-fluid" src="assets/img/secured.PNG" alt=""></a>
                         </div>
 						<div class="single-client">
-                            <a href="#"><img class="img-fluid" src="assets/img/clients/5.png" alt=""></a>
+                            <a href="#"><img class="img-fluid" src="assets/img/secured (1).PNG" alt=""></a>
                         </div>
 						<div class="single-client">
-                            <a href="#"><img class="img-fluid" src="assets/img/clients/3.png" alt=""></a>
+                            <a href="#"><img class="img-fluid" src="assets/img/secured (2).PNG" alt=""></a>
                         </div>
-						<div class="single-client">
-                            <a href="#"><img class="img-fluid" src="assets/img/clients/2.png" alt=""></a>
-                        </div>
-						<div class="single-client">
-                            <a href="#"><img class="img-fluid" src="assets/img/clients/4.png" alt=""></a>
-                        </div>
-						<div class="single-client">
-                            <a href="#"><img class="img-fluid" src="assets/img/clients/6.png" alt=""></a>
-                        </div>
+						
 					</div>
 				</div>
 			</div>
@@ -1326,26 +601,6 @@
     </section>
     <!-- END CLIENT SECTION -->
 	
-	<!-- START CALLTOACTION SECTION -->
-	<section id="calltoaction" class="calltoaction-padding section-padding bg-theme">
-		<div class="auto-container">
-			<div class="row">
-				<div class="col-lg-8 col-md-8 col-sm-12 col-12 mb-lg-0 mb-md-4 mb-sm-4 mb-4">
-					<div class="calltoaction-two-wrap">
-						<h4>Need More Service?</h4>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit,sed do<br>incididunt ut labore et dolore magna aliqua.</p>
-					</div>
-				</div>
-				<!-- end col -->
-				<div class="col-lg-4 col-md-4 col-sm-12 col-12 text-lg-right text-md-right text-sm-left text-left">
-					<a href="#" class="btn-style btn-border btn-border-3">Contact Us</a>
-				</div>
-				<!-- end col -->
-			</div>
-			<!-- end row-->
-		</div>
-	</section>
-    <!-- END CALLTOACTION SECTION -->
 	
     <!-- START FOOTER -->
     <footer>
@@ -1360,24 +615,15 @@
                                  <i class="fab fa-gg-circle"></i>
                                 </div>
 								<div class="footer-logo-text">
-                                    <h3>Bitfonix</h3>
-                                    <p>Bitcoin Trading Template</p>
+                                    <h3>CryptoWealth</h3>
+                                    <p>Cryptocurrency Investments</p>
                                 </div>
 							</a>
                         </div>
                         <div class="about mb-2">
-                            <p>Lorem ipsum dolor sit ametconsect etur adipiscing elit, sed do eiusmod tempor incididunt ut labo reetdolor emagna aliqua. Ut enim ad minimv eniam, quis nostrud exerc itationul amco laboris nisi ut aliquip exeallg commodo consequat.</p>
+                            <p>...Delivering quality service, which is unique, valuable and profitable to help our clients attain financial success by providing real investment opportunities and support.</p>
                         </div>
-                        <div class="footer-news">
-							<form action="#">
-                                <div class="row">
-									<div class="form-group col-lg-9 col-md-9 col-8 pr-lg-0 pr-md-0 pr-2">
-										<input name="semail" class="form-control" placeholder="Email Address" type="email">
-									</div>
-									<button type="submit" class="col-lg-3 col-md-2 col-2 p-0 fnews-btn"><i class="fa fa-paper-plane"></i></button>
-								</div>
-							 </form>
-                        </div>
+          
                     </div>
                     <!-- End Widget -->
                     <div class="col-lg-3 col-md-6 col-sm-12 col-12 mb-lg-0 mb-md-5 mb-5 footer-widget">
@@ -1387,45 +633,14 @@
                         <!-- END SECTION TITLE -->
 						<div class="col-12 footer-widget-inner">
 							<ul class="quick-link-list">
-								<li><a href="#"><i class="fa fa-chevron-circle-right"></i> Home Page</a></li>
-								<li><a href="#"><i class="fa fa-chevron-circle-right"></i> Our Members</a></li>
-								<li><a href="#"><i class="fa fa-chevron-circle-right"></i> Client feedback</a></li>
-								<li><a href="#"><i class="fa fa-chevron-circle-right"></i> Buy & Sell</a></li>
-								<li><a href="#"><i class="fa fa-chevron-circle-right"></i> Bitcoin Trade</a></li>
-								<li><a href="#"><i class="fa fa-chevron-circle-right"></i> Market Price </a></li>
+								<li><a href="./"><i class="fa fa-chevron-circle-right"></i> Home Page</a></li>
+								<li><a href="/about"><i class="fa fa-chevron-circle-right"></i> About</a></li>
+								<li><a href="/contact"><i class="fa fa-chevron-circle-right"></i> Contact</a></li>
+								<li><a href="/pricing"><i class="fa fa-chevron-circle-right"></i> Pricing</a></li>
 							</ul>
 						</div>	
                     </div>
-                    <!-- End Widget -->
-                    <div class="col-lg-3 col-md-6 col-sm-12 col-12 mb-lg-0 mb-md-0 mb-5 footer-widget">
-                        <div class="footer-section-title col-12 no-padding">
-                            <h3>latest Post</h3>
-                        </div>
-                        <!-- END SECTION TITLE -->
-						<div class="col-12 footer-widget-inner recentPost">
-							<div class="singleRecpost">
-								<img src="assets/img/blog/1.jpg" alt="" class="img-fluid">
-								<h6 class="recTitle">
-									<a href="#">Lorem ipsum dolor sit amet, consectetuer.</a>
-								</h6>
-								<p class="posted-on">3 DEC 2018</p>
-							</div>
-							<div class="singleRecpost">
-								<img src="assets/img/blog/2.jpg" alt="" class="img-fluid">
-								<h6 class="recTitle">
-									<a href="#">Lorem ipsum dolor sit amet, consectetuer.</a>
-								</h6>
-								<p class="posted-on">4 DEC 2018</p>
-							</div>
-							<div class="singleRecpost">
-								<img src="assets/img/blog/3.jpg" alt="" class="img-fluid">
-								<h6 class="recTitle">
-									<a href="#">Lorem ipsum dolor sit amet, consectetuer.</a>
-								</h6>
-								<p class="posted-on">5 DEC 2018</p>
-							</div>
-						</div>
-                    </div>
+             
                     <!-- End Widget -->
                     <div class="col-lg-3 col-md-6 col-sm-12 col-12 mb-0 footer-widget">
                         <div class="footer-section-title col-12 no-padding">
@@ -1439,7 +654,7 @@
 								</div>
 								<div class="single-fcontact-des">
 									<h6>Compnay Name:</h6>
-									<p>10004, Battery Park, New York, USA </p>
+									<p>CrytpWeatlh Investments</p>
 								</div>
 							</div>
 							<div class="single-fcontact mb-2">
@@ -1448,7 +663,7 @@
 								</div>
 								<div class="single-fcontact-des">
 									<h6>Phone Number:</h6>
-									<p>123-456-0975</p>
+									<p>+ 234-813-391-8455</p>
 								</div>
 							</div>
 							<div class="single-fcontact">
@@ -1456,11 +671,30 @@
 									<i class="icofont icofont-eye-alt"></i>
 								</div>
 								<div class="single-fcontact-des">
-									<h6>Door Open:</h6>
-									<p>Mon - Sun : 09:00 - 18:00</p>
+									<h6>Line Open:</h6>
+									<p>Mon - Sun : 24hrs</p>
 								</div>
 							</div>
 						</div>
+						<div class="col-12 mt-4 footer-social-war">
+							<div class="footer-social">
+								<ul>
+									<li><a href="#"><i class="icofont icofont-social-facebook"></i></a></li>
+									<li><a href="#"><i class="icofont icofont-social-twitter"></i></a></li>
+									<li><a href="#"><i class="icofont icofont-social-youtube"></i></a></li>
+									<li><a href="#"><i class="icofont icofont-social-google-plus"></i></a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					
+					     <!-- End Widget -->
+						 <div class="col-lg-3 col-md-6 col-sm-12 col-12 mb-0 footer-widget">
+                        <div class="footer-section-title col-12 no-padding">
+                            <h3>Connect With Us</h3>
+                        </div>
+                        <!-- END SECTION TITLE -->
+					
 						<div class="col-12 mt-4 footer-social-war">
 							<div class="footer-social">
 								<ul>
@@ -1483,13 +717,12 @@
                 <div class="row">
                     <div class="col-lg-6 col-md-6 col-sm-12 col-12 mb-lg-0 mb-md-0 mb-4 footer-menu text-center text-lg-left text-md-left">
                         <ul>
-                            <li><a href="#">Company Profile</a> </li>
                             <li><a href="#">Terms & Condition</a> </li>
                             <li><a href="#">Refund Policy</a> </li>
                         </ul>
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-12 col-12 copyright-text text-center text-lg-right text-md-right">
-                        <p>Copyright &copy; 2018 <a href="#"> Bitfonix </a> | All Rights Reserved</p>
+                        <p>Copyright &copy; 2018 <a href="#"> CryptoWealth </a> | All Rights Reserved</p>
                     </div>
                 </div>
             </div>
